@@ -1,4 +1,4 @@
-# Day 9 review note - Oct 24
+# Day 8 review note - Oct 24
 
 two handlers are discuss in today’s lecture:
 
